@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678650543 source:d:\zigzag\proj3\main.c
+	<stdio.h>
+	<stdlib.h>
+
