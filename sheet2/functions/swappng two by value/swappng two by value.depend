@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679881475 source:d:\zigzag\swappng two by value\main.c
+	<stdio.h>
+	<stdlib.h>
+
